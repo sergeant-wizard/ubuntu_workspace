@@ -3,4 +3,4 @@ cinst -y git --params '"/GitAndUnixToolsOnPath"'
 cinst -y virtualbox
 cinst -y virtualbox.extensionpack
 cinst -y vagrant
-cinst -y conemu
+cinst -y cmder
