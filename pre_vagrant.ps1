@@ -3,3 +3,4 @@ cinst -y Gow
 cinst -y virtualbox
 cinst -y virtualbox.extensionpack
 cinst -y vagrant
+cinst -y cmder
