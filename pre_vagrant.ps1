@@ -3,5 +3,6 @@ cinst -y git --params '"/GitAndUnixToolsOnPath"'
 cinst -y virtualbox
 cinst -y virtualbox.extensionpack
 cinst -y vagrant
-cinst -y cmder
 cinst -y vim
+cinst -y cyg-get
+cyg-get vim git openssh
